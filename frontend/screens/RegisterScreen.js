@@ -39,7 +39,7 @@ export default function RegisterScreen({ navigation }) { // Register screen comp
 
     return (
         <View style={styles.container}>
-            <Text style={styles.logo}>🎭</Text>
+            <Text style={styles.logo}>🎬</Text>
             <Text style={styles.title}>Create Account</Text>
             <Text style={styles.subtitle}>Sign up to book theatre tickets</Text>
 

@@ -8,7 +8,7 @@ export default function HomeScreen({ navigation }) { // Παίρνει navigatio
     return (
         <View style={styles.container}>
 
-            <Text style={styles.title}>🎭 Theatre Booking</Text>
+            <Text style={styles.title}>🎬 Theatre Booking</Text>
 
 
             <TouchableOpacity

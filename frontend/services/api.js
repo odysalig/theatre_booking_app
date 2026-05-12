@@ -4,7 +4,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://LAPTOP-GO2ID0T5:3000/api'
+    baseURL: 'http://192.168.1.8:3000/api'
 });
 
 export default api;

@@ -63,7 +63,7 @@ export default function ShowsScreen({ navigation }) {
                         }
                     >
                         <View style={styles.cardTop}>
-                            <Text style={styles.icon}>🎭</Text>
+                            <Text style={styles.icon}>🎬</Text>
                             <View style={styles.cardTextArea}>
                                 <Text style={styles.title}>{item.title}</Text>
                                 <Text style={styles.theatre}>{item.theatre_name}</Text>
