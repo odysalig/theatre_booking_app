@@ -74,3 +74,4 @@ npx expo start -c
 Για να λειτουργεί σωστά η εφαρμογή, το baseURL στο αρχείο frontend/services/api.js πρέπει να δείχνει στη διεύθυνση του backend server, για παράδειγμα:
 baseURL: 'http://192.168.1.8:3000/api'
 Αν χρησιμοποιείται κινητό μέσω Expo Go, το κινητό και ο υπολογιστής πρέπει να είναι συνδεδεμένα στο ίδιο δίκτυο WiFi και να αλλαχτεί η ip με την ip στην οποία είναι συνδεδεμένες αυτές οι συσκευές.
+Link GitHub : https://github.com/odysalig/theatre_booking_app.git
